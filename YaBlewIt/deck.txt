@@ -1,0 +1,63 @@
+Card,fire in the hole,action
+Card,fire in the hole,action
+Card,fire in the hole,action
+Card,fire in the hole,action
+Card,fire in the hole,action
+Card,claim jumper,action
+Card,claim jumper,action
+Card,claim jumper,action
+Card,claim jumper,action
+Card,safe,action
+Card,safe,action
+Card,safe,action
+Card,safe,action
+Gem,red gem,gem,red,False,5
+Gem,red gem,gem,red,False,6
+Gem,red gem,gem,red,False,7
+Gem,red gem,gem,red,False,8
+Gem,double red gem,gem,red,True,1,2
+Gem,double red gem,gem,red,True,3,4
+Gem,orange gem,gem,orange,False,1
+Gem,orange gem,gem,orange,False,3
+Gem,orange gem,gem,orange,False,6
+Gem,orange gem,gem,orange,False,8
+Gem,double orange gem,gem,orange,True,2,4
+Gem,double orange gem,gem,orange,True,5,7
+Gem,yellow gem,gem,yellow,False,2
+Gem,yellow gem,gem,yellow,False,4
+Gem,yellow gem,gem,yellow,False,5
+Gem,yellow gem,gem,yellow,False,7
+Gem,double yellow gem,gem,yellow,True,1,3
+Gem,double yellow gem,gem,yellow,True,6,8
+Gem,green gem,gem,green,False,3
+Gem,green gem,gem,green,False,4
+Gem,green gem,gem,green,False,7
+Gem,green gem,gem,green,False,8
+Gem,double green gem,gem,green,True,1,6
+Gem,double green gem,gem,green,True,2,5
+Gem,blue gem,gem,blue,False,1
+Gem,blue gem,gem,blue,False,2
+Gem,blue gem,gem,blue,False,3
+Gem,blue gem,gem,blue,False,4
+Gem,double blue gem,gem,blue,True,5,6
+Gem,double blue gem,gem,blue,True,7,8
+Gem,purple gem,gem,purple,False,1
+Gem,purple gem,gem,purple,False,2
+Gem,purple gem,gem,purple,False,5
+Gem,purple gem,gem,purple,False,6
+Gem,double purple gem,gem,purple,True,3,8
+Gem,double purple gem,gem,purple,True,4,7
+Gem,wild gem,gem,wild,False,1,8
+Gem,wild gem,gem,wild,False,2,7
+Gem,wild gem,gem,wild,False,3,6
+Gem,wild gem,gem,wild,False,4,5
+Card,faulty detonator,action
+Card,faulty detonator,action
+Card,faulty detonator,action
+Card,faulty detonator,action
+Card,faulty detonator,action
+Card,faulty detonator,action
+Card,faulty detonator,action
+Card,faulty detonator,action
+Card,faulty detonator,action
+Card,faulty detonator,action
